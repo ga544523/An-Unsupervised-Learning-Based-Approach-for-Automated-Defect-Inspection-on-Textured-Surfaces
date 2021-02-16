@@ -11,3 +11,17 @@ referenced from
 
 ![image](https://github.com/ga544523/multi-scale-CDAE/blob/main/data/Untitled%20Diagram.png?raw=true)
 
+
+
+![image](https://github.com/ga544523/multi-scale-CDAE/blob/main/result_figure/result1.png?raw=true)
+
+
+
+
+![image](https://github.com/ga544523/multi-scale-CDAE/blob/main/result_figure/result3.png?raw=true)
+
+
+
+
+![image](https://github.com/ga544523/multi-scale-CDAE/blob/main/result_figure/result4.png?raw=true)
+
