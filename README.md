@@ -8,8 +8,8 @@ referenced from  and the dataset is from DAGM2007
 
 
 
-It's an interesting idea by adding random noise on different scale images and then try to recover it to orginal image in 8x8 patch size(see image1).
-Using Multi scale image just for increase robustness(I guess)
+Add random noise on different scale images and then try to recover it to orginal image in 8x8 patch size(see image1).
+Using Multi scale image just for increase the robustness(I guess)
 
 ![image](https://github.com/ga544523/multi-scale-CDAE/blob/main/result_figure/Untitled%20Diagram.png?raw=true)
 
