@@ -1,11 +1,9 @@
 # multi-scale-CDAE
 
-referenced from  and the dataset is from DAGM2007
-
-
+referenced from  
 
 [An Unsupervised-Learning-Based Approach for Automated Defect Inspection on Textured Surfaces](https://ieeexplore.ieee.org/document/8281622)
-
+and the dataset is from DAGM2007
 
 
 Add random noise on different scale images and then try to recover it to orginal image in 8x8 patch size(see image1).
